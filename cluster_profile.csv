@@ -1,0 +1,4 @@
+Cluster,Cluster_Name,Customers,Share_of_Customers_%,Avg_Recency,Avg_Frequency,Avg_Monetary,Median_Monetary,Total_Revenue,Share_of_Revenue_%,Value_Score
+1,High-Value (Champions),173,33.3,43.1,15.3,127250.2,76350.7,22014288.8,76.7,3.4
+0,Regular (Loyal),68,13.1,23.5,2.5,9068.2,4741.3,616636.4,2.1,-0.8
+2,Low-Value (Lost),279,53.7,221.1,3.5,21721.8,9533.0,6060380.0,21.1,-2.6

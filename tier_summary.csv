@@ -1,0 +1,4 @@
+Customer_Tier,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Total_Revenue,Share_of_Customers_%,Share_of_Revenue_%
+High-Value,106,26.7,18.9,154877.8,16417049.3,20.4,57.2
+Regular,203,107.9,6.2,51713.1,10497763.7,39.0,36.6
+Low-Value,211,217.9,2.5,8419.4,1776492.2,40.6,6.2

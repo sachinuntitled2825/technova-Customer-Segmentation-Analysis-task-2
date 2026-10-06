@@ -1,0 +1,107 @@
+Customer_ID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,RFM_Segment,Cluster,Cluster_Name,Customer_Tier,Avg_Order_Value,Distinct_Products,Tenure_Days,First_Purchase,Last_Purchase,Categories
+CUST-0498,35,28,718485.01,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,25660.17892857143,11,360,2025-01-01,2025-11-22,Electronics
+CUST-0118,86,11,649097.35,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,59008.85,6,358,2025-01-03,2025-10-02,Electronics
+CUST-0238,9,25,501213.3,4,4,4,12,Champions,1,High-Value (Champions),High-Value,20048.532,12,337,2025-01-24,2025-12-18,Electronics
+CUST-0370,21,19,495415.83999999997,4,4,4,12,Champions,1,High-Value (Champions),High-Value,26074.51789473684,11,319,2025-02-11,2025-12-06,Grocery
+CUST-0291,26,26,450630.54,4,4,4,12,Champions,1,High-Value (Champions),High-Value,17331.943846153845,13,331,2025-01-30,2025-12-01,Electronics
+CUST-0477,40,28,448202.57,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,16007.234642857144,16,348,2025-01-13,2025-11-17,Electronics
+CUST-0260,26,23,426867.58999999997,4,4,4,12,Champions,1,High-Value (Champions),High-Value,18559.460434782606,14,337,2025-01-24,2025-12-01,Clothing
+CUST-0057,22,24,423473.14,4,4,4,12,Champions,1,High-Value (Champions),High-Value,17644.71416666667,14,360,2025-01-01,2025-12-05,Electronics
+CUST-0110,36,22,411529.51,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,18705.886818181818,11,342,2025-01-19,2025-11-21,Sports
+CUST-0059,30,25,390487.68,4,4,4,12,Champions,1,High-Value (Champions),High-Value,15619.5072,14,319,2025-02-11,2025-11-27,Electronics
+CUST-0172,21,24,372427.85,4,4,4,12,Champions,1,High-Value (Champions),High-Value,15517.827083333332,14,354,2025-01-07,2025-12-06,Electronics
+CUST-0292,19,23,348092.09,4,4,4,12,Champions,1,High-Value (Champions),High-Value,15134.438695652176,13,350,2025-01-11,2025-12-08,Electronics
+CUST-0043,27,20,338017.76,4,4,4,12,Champions,1,High-Value (Champions),High-Value,16900.888,12,359,2025-01-02,2025-11-30,Electronics
+CUST-0312,25,21,293856.63,4,4,4,12,Champions,1,High-Value (Champions),High-Value,13993.172857142858,11,338,2025-01-23,2025-12-02,Electronics
+CUST-0335,35,30,282808.9,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,9426.963333333335,15,355,2025-01-06,2025-11-22,Home
+CUST-0099,13,24,281142.77999999997,4,4,4,12,Champions,1,High-Value (Champions),High-Value,11714.2825,12,356,2025-01-05,2025-12-14,Sports
+CUST-0318,92,9,276352.14,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,30705.793333333335,7,338,2025-01-23,2025-09-26,Electronics
+CUST-0423,14,14,262174.33,4,4,4,12,Champions,1,High-Value (Champions),High-Value,18726.73785714286,9,301,2025-03-01,2025-12-13,Electronics
+CUST-0375,17,28,256134.19,4,4,4,12,Champions,1,High-Value (Champions),High-Value,9147.649642857143,13,356,2025-01-05,2025-12-10,Beauty
+CUST-0133,30,26,254657.9,4,4,4,12,Champions,1,High-Value (Champions),High-Value,9794.534615384615,9,360,2025-01-01,2025-11-27,Electronics
+CUST-0487,11,23,254566.75999999998,4,4,4,12,Champions,1,High-Value (Champions),High-Value,11068.119999999999,13,341,2025-01-20,2025-12-16,Electronics
+CUST-0381,15,22,252514.96,4,4,4,12,Champions,1,High-Value (Champions),High-Value,11477.952727272726,13,355,2025-01-06,2025-12-12,Sports
+CUST-0388,18,11,245854.53,4,4,4,12,Champions,1,High-Value (Champions),High-Value,22350.41181818182,9,342,2025-01-19,2025-12-09,Electronics
+CUST-0334,28,13,239559.71,4,4,4,12,Champions,1,High-Value (Champions),High-Value,18427.67,11,301,2025-03-01,2025-11-29,Clothing
+CUST-0516,24,19,234676.13999999998,4,4,4,12,Champions,1,High-Value (Champions),High-Value,12351.375789473683,13,348,2025-01-13,2025-12-03,Electronics
+CUST-0176,84,14,226026.34,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,16144.738571428572,10,356,2025-01-05,2025-10-04,Electronics
+CUST-0058,30,8,211611.33000000002,4,3,4,11,Loyal Customers,1,High-Value (Champions),High-Value,26451.416250000002,6,311,2025-02-19,2025-11-27,Electronics
+CUST-0408,34,13,199840.67,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,15372.359230769232,8,347,2025-01-14,2025-11-23,Grocery
+CUST-0214,42,12,197552.37,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,16462.6975,10,357,2025-01-04,2025-11-15,Electronics
+CUST-0286,55,13,196036.47000000003,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,15079.728461538463,11,343,2025-01-18,2025-11-02,Electronics
+CUST-0245,19,30,194779.33000000002,4,4,4,12,Champions,1,High-Value (Champions),High-Value,6492.644333333334,15,354,2025-01-07,2025-12-08,Clothing
+CUST-0460,16,18,192026.87,4,4,4,12,Champions,1,High-Value (Champions),High-Value,10668.159444444444,9,331,2025-01-30,2025-12-11,Electronics
+CUST-0033,5,21,188372.82,4,4,4,12,Champions,1,High-Value (Champions),High-Value,8970.134285714286,12,359,2025-01-02,2025-12-22,Beauty
+CUST-0450,38,23,172226.41,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,7488.104782608696,10,353,2025-01-08,2025-11-19,Sports
+CUST-0506,14,13,163305.89,4,4,4,12,Champions,1,High-Value (Champions),High-Value,12561.99153846154,10,357,2025-01-04,2025-12-13,Electronics
+CUST-0080,20,28,161592.86,4,4,4,12,Champions,1,High-Value (Champions),High-Value,5771.1735714285705,9,354,2025-01-07,2025-12-07,Sports
+CUST-0493,56,11,153285.67,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,13935.060909090911,7,304,2025-02-26,2025-11-01,Clothing
+CUST-0310,55,13,136793.03,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,10522.540769230769,7,349,2025-01-12,2025-11-02,Grocery
+CUST-0030,11,28,134679.88,4,4,4,12,Champions,1,High-Value (Champions),High-Value,4809.995714285715,13,352,2025-01-09,2025-12-16,Clothing
+CUST-0430,33,16,133286.71,4,4,4,12,Champions,1,High-Value (Champions),High-Value,8330.419375,9,340,2025-01-21,2025-11-24,Grocery
+CUST-0340,36,18,131979.63,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,7332.201666666667,10,357,2025-01-04,2025-11-21,Electronics
+CUST-0515,11,26,130097.98,4,4,4,12,Champions,1,High-Value (Champions),High-Value,5003.768461538461,12,349,2025-01-12,2025-12-16,Grocery
+CUST-0100,10,26,129758.5,4,4,4,12,Champions,1,High-Value (Champions),High-Value,4990.711538461538,13,353,2025-01-08,2025-12-17,Clothing
+CUST-0109,50,10,125550.16,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,12555.016,6,346,2025-01-15,2025-11-07,Electronics
+CUST-0443,31,7,123315.09,4,3,4,11,Loyal Customers,1,High-Value (Champions),High-Value,17616.441428571427,7,337,2025-01-24,2025-11-26,Electronics
+CUST-0016,11,11,116754.48,4,4,4,12,Champions,1,High-Value (Champions),High-Value,10614.043636363636,8,354,2025-01-07,2025-12-16,Clothing
+CUST-0206,23,15,115288.34,4,4,4,12,Champions,1,High-Value (Champions),High-Value,7685.8893333333335,9,298,2025-03-04,2025-12-04,Electronics
+CUST-0348,40,24,112596.81999999999,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,4691.534166666666,14,345,2025-01-16,2025-11-17,Sports
+CUST-0209,37,30,109135.45,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,3637.8483333333334,14,355,2025-01-06,2025-11-20,Clothing
+CUST-0284,5,30,107750.48999999999,4,4,4,12,Champions,1,High-Value (Champions),High-Value,3591.6829999999995,17,343,2025-01-18,2025-12-22,Sports
+CUST-0032,21,13,107567.11,4,4,4,12,Champions,1,High-Value (Champions),High-Value,8274.393076923077,8,335,2025-01-26,2025-12-06,Clothing
+CUST-0165,34,17,101952.5,4,4,4,12,Champions,1,High-Value (Champions),High-Value,5997.205882352941,12,346,2025-01-15,2025-11-23,Clothing
+CUST-0333,21,30,98440.95,4,4,4,12,Champions,1,High-Value (Champions),High-Value,3281.365,14,348,2025-01-13,2025-12-06,Clothing
+CUST-0152,15,8,94882.34999999999,4,3,4,11,Loyal Customers,1,High-Value (Champions),High-Value,11860.293749999999,8,342,2025-01-19,2025-12-12,Clothing
+CUST-0440,15,22,91693.81,4,4,4,12,Champions,1,High-Value (Champions),High-Value,4167.9004545454545,12,350,2025-01-11,2025-12-12,Beauty
+CUST-0226,20,12,90365.01000000001,4,4,4,12,Champions,1,High-Value (Champions),High-Value,7530.4175000000005,8,290,2025-03-12,2025-12-07,Clothing
+CUST-0372,13,23,88236.48,4,4,4,12,Champions,1,High-Value (Champions),High-Value,3836.3686956521738,16,349,2025-01-12,2025-12-14,Clothing
+CUST-0410,40,23,86767.68,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,3772.5078260869564,10,354,2025-01-07,2025-11-17,Clothing
+CUST-0371,13,16,83020.06999999999,4,4,4,12,Champions,1,High-Value (Champions),High-Value,5188.7543749999995,13,337,2025-01-24,2025-12-14,Electronics
+CUST-0062,13,13,81741.66,4,4,4,12,Champions,1,High-Value (Champions),High-Value,6287.820000000001,8,275,2025-03-27,2025-12-14,Clothing
+CUST-0342,29,6,81369.38,4,3,4,11,Loyal Customers,1,High-Value (Champions),High-Value,13561.563333333334,6,355,2025-01-06,2025-11-28,Electronics
+CUST-0467,38,13,79513.08,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,6116.390769230769,7,349,2025-01-12,2025-11-19,Beauty
+CUST-0473,25,26,79095.59,4,4,4,12,Champions,1,High-Value (Champions),High-Value,3042.138076923077,14,359,2025-01-02,2025-12-02,Home
+CUST-0159,60,10,78528.72,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,7852.872,10,317,2025-02-13,2025-10-28,Electronics
+CUST-0459,32,23,78266.34,4,4,4,12,Champions,1,High-Value (Champions),High-Value,3402.884347826087,12,359,2025-01-02,2025-11-25,Sports
+CUST-0520,32,13,76540.73,4,4,4,12,Champions,1,High-Value (Champions),High-Value,5887.748461538461,10,351,2025-01-10,2025-11-25,Clothing
+CUST-0084,10,30,76350.66,4,4,4,12,Champions,1,High-Value (Champions),High-Value,2545.022,13,338,2025-01-23,2025-12-17,Grocery
+CUST-0182,35,28,75484.13,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,2695.861785714286,14,345,2025-01-16,2025-11-22,Grocery
+CUST-0174,62,12,75005.52,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,6250.46,8,307,2025-02-23,2025-10-26,Beauty
+CUST-0005,75,12,67314.01,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,5609.500833333333,7,303,2025-02-27,2025-10-13,Home
+CUST-0185,49,11,65881.29,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,5989.208181818181,8,332,2025-01-29,2025-11-08,Electronics
+CUST-0223,5,18,64874.92,4,4,4,12,Champions,1,High-Value (Champions),High-Value,3604.162222222222,11,353,2025-01-08,2025-12-22,Sports
+CUST-0129,8,30,64824.4,4,4,4,12,Champions,1,High-Value (Champions),High-Value,2160.8133333333335,11,346,2025-01-15,2025-12-19,Home
+CUST-0393,33,5,63410.259999999995,4,3,4,11,Loyal Customers,1,High-Value (Champions),High-Value,12682.052,5,323,2025-02-07,2025-11-24,Beauty
+CUST-0146,18,16,63075.54,4,4,4,12,Champions,1,High-Value (Champions),High-Value,3942.22125,8,341,2025-01-20,2025-12-09,Sports
+CUST-0357,13,17,62837.79,4,4,4,12,Champions,1,High-Value (Champions),High-Value,3696.340588235294,11,357,2025-01-04,2025-12-14,Sports
+CUST-0494,39,13,62662.619999999995,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,4820.201538461538,9,358,2025-01-03,2025-11-18,Home
+CUST-0461,22,19,61363.79,4,4,4,12,Champions,1,High-Value (Champions),High-Value,3229.673157894737,10,346,2025-01-15,2025-12-05,Sports
+CUST-0434,28,17,61326.44,4,4,4,12,Champions,1,High-Value (Champions),High-Value,3607.4376470588236,9,350,2025-01-11,2025-11-29,Sports
+CUST-0431,57,13,60936.4,3,4,4,11,Loyal Customers,1,High-Value (Champions),High-Value,4687.415384615385,10,360,2025-01-01,2025-10-31,Beauty
+CUST-0301,21,20,60589.020000000004,4,4,4,12,Champions,1,High-Value (Champions),High-Value,3029.451,13,350,2025-01-11,2025-12-06,Grocery
+CUST-0038,5,17,59535.01,4,4,4,12,Champions,1,High-Value (Champions),High-Value,3502.059411764706,11,351,2025-01-10,2025-12-22,Home
+CUST-0435,12,30,58735.64,4,4,4,12,Champions,1,High-Value (Champions),High-Value,1957.8546666666666,12,360,2025-01-01,2025-12-15,Home
+CUST-0425,13,20,58088.03,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,2904.4015,12,328,2025-02-02,2025-12-14,Home
+CUST-0455,28,17,56070.95,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,3298.291176470588,8,326,2025-02-04,2025-11-29,Sports
+CUST-0457,3,20,55920.49,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,2796.0245,13,357,2025-01-04,2025-12-24,Home
+CUST-0437,20,20,55761.159999999996,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,2788.058,14,357,2025-01-04,2025-12-07,Home
+CUST-0336,21,19,55494.6,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,2920.7684210526313,12,322,2025-02-08,2025-12-06,Sports
+CUST-0355,23,29,54711.51,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,1886.6037931034484,14,358,2025-01-03,2025-12-04,Grocery
+CUST-0255,34,11,52400.29,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,4763.662727272727,8,344,2025-01-17,2025-11-23,Electronics
+CUST-0313,4,15,50384.93000000001,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,3358.9953333333337,11,352,2025-01-09,2025-12-23,Grocery
+CUST-0169,14,27,50159.32,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,1857.7525925925927,13,350,2025-01-11,2025-12-13,Grocery
+CUST-0207,31,24,45352.86,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,1889.7025,11,359,2025-01-02,2025-11-26,Beauty
+CUST-0401,20,26,44253.74,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,1702.066923076923,13,360,2025-01-01,2025-12-07,Grocery
+CUST-0378,9,16,41817.189999999995,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,2613.5743749999997,8,328,2025-02-02,2025-12-18,Sports
+CUST-0373,25,15,40664.93,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,2710.9953333333333,9,353,2025-01-08,2025-12-02,Clothing
+CUST-0073,23,14,39266.56,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,2804.7542857142857,8,352,2025-01-09,2025-12-04,Sports
+CUST-0471,3,30,38368.21,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,1278.9403333333332,15,354,2025-01-07,2025-12-24,Grocery
+CUST-0124,18,23,33133.43,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,1440.5839130434783,10,344,2025-01-17,2025-12-09,Grocery
+CUST-0101,5,17,32930.15,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,1937.0676470588237,9,334,2025-01-27,2025-12-22,Beauty
+CUST-0190,12,11,27209.14,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,2473.5581818181818,6,330,2025-01-31,2025-12-15,Beauty
+CUST-0011,29,18,26019.07,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,1445.503888888889,8,343,2025-01-18,2025-11-28,Beauty
+CUST-0202,31,17,24328.93,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,1431.1135294117648,11,330,2025-01-31,2025-11-26,Home
+CUST-0441,30,15,22364.67,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,1490.9779999999998,10,299,2025-03-03,2025-11-27,Grocery
+CUST-0067,29,14,20237.48,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,1445.5342857142857,7,311,2025-02-19,2025-11-28,Beauty
+CUST-0469,11,12,18039.99,4,4,3,11,Loyal Customers,1,High-Value (Champions),High-Value,1503.3325000000002,8,353,2025-01-08,2025-12-16,Grocery

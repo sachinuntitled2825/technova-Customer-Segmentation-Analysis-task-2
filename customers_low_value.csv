@@ -1,0 +1,212 @@
+Customer_ID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,RFM_Segment,Cluster,Cluster_Name,Customer_Tier,Avg_Order_Value,Distinct_Products,Tenure_Days,First_Purchase,Last_Purchase,Categories
+CUST-0002,330,1,123039.84,1,1,4,6,Lost,2,Low-Value (Lost),Low-Value,123039.84,1,330,2025-01-31,2025-01-31,Electronics
+CUST-0479,309,2,90403.41,1,1,4,6,Lost,2,Low-Value (Lost),Low-Value,45201.705,1,320,2025-02-10,2025-02-21,Electronics
+CUST-0262,307,2,58716.71,1,1,4,6,Lost,2,Low-Value (Lost),Low-Value,29358.355,2,339,2025-01-22,2025-02-23,Electronics
+CUST-0489,298,2,48592.67,1,1,3,5,Lost,2,Low-Value (Lost),Low-Value,24296.335,2,339,2025-01-22,2025-03-04,Electronics
+CUST-0439,185,2,46289.89,2,1,3,6,Hibernating,2,Low-Value (Lost),Low-Value,23144.945,2,345,2025-01-16,2025-06-25,Clothing
+CUST-0367,330,2,43878.29,1,1,3,5,Lost,2,Low-Value (Lost),Low-Value,21939.145,2,352,2025-01-09,2025-01-31,Electronics
+CUST-0184,260,3,36262.299999999996,1,2,3,6,Lost,2,Low-Value (Lost),Low-Value,12087.433333333332,3,340,2025-01-21,2025-04-11,Electronics
+CUST-0179,304,2,25883.760000000002,1,1,3,5,Lost,2,Low-Value (Lost),Low-Value,12941.880000000001,2,337,2025-01-24,2025-02-26,Electronics
+CUST-0081,308,4,24464.629999999997,1,2,3,6,Lost,2,Low-Value (Lost),Low-Value,6116.157499999999,3,334,2025-01-27,2025-02-22,Electronics
+CUST-0391,314,2,24249.980000000003,1,1,3,5,Lost,2,Low-Value (Lost),Low-Value,12124.990000000002,2,330,2025-01-31,2025-02-16,Electronics
+CUST-0052,256,4,22699.77,1,2,3,6,Lost,2,Low-Value (Lost),Low-Value,5674.9425,4,327,2025-02-03,2025-04-15,Electronics
+CUST-0280,296,3,20661.239999999998,1,2,3,6,Lost,2,Low-Value (Lost),Low-Value,6887.079999999999,2,360,2025-01-01,2025-03-06,Clothing
+CUST-0279,110,2,17047.24,2,1,3,6,Hibernating,2,Low-Value (Lost),Low-Value,8523.62,2,301,2025-03-01,2025-09-08,Electronics
+CUST-0171,129,2,16763.170000000002,2,1,3,6,Hibernating,2,Low-Value (Lost),Low-Value,8381.585000000001,2,142,2025-08-07,2025-08-20,Clothing
+CUST-0383,180,4,16586.18,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,4146.545,4,359,2025-01-02,2025-06-30,Clothing
+CUST-0353,124,3,16573.3,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,5524.433333333333,3,241,2025-04-30,2025-08-25,Clothing
+CUST-0316,203,4,16565.97,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,4141.4925,3,324,2025-02-06,2025-06-07,Electronics
+CUST-0359,324,2,16250.3,1,1,2,4,Lost,2,Low-Value (Lost),Low-Value,8125.15,2,348,2025-01-13,2025-02-06,Clothing
+CUST-0031,105,4,16237.09,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,4059.2725,3,279,2025-03-23,2025-09-13,Electronics
+CUST-0445,261,4,16019.95,1,3,2,6,Lost,2,Low-Value (Lost),Low-Value,4004.9875,3,338,2025-01-23,2025-04-10,Clothing
+CUST-0309,276,5,15683.189999999999,1,3,2,6,Lost,2,Low-Value (Lost),Low-Value,3136.638,3,334,2025-01-27,2025-03-26,Home
+CUST-0026,268,4,15681.09,1,2,2,5,Lost,2,Low-Value (Lost),Low-Value,3920.2725,4,336,2025-01-25,2025-04-03,Clothing
+CUST-0476,313,1,15437.35,1,1,2,4,Lost,2,Low-Value (Lost),Low-Value,15437.35,1,313,2025-02-17,2025-02-17,Electronics
+CUST-0068,304,5,15243.85,1,3,2,6,Lost,2,Low-Value (Lost),Low-Value,3048.77,5,359,2025-01-02,2025-02-26,Clothing
+CUST-0428,317,4,14771.23,1,2,2,5,Lost,2,Low-Value (Lost),Low-Value,3692.8075,3,355,2025-01-06,2025-02-13,Electronics
+CUST-0315,264,5,14578.89,1,3,2,6,Lost,2,Low-Value (Lost),Low-Value,2915.778,4,355,2025-01-06,2025-04-07,Clothing
+CUST-0432,322,4,14567.53,1,2,2,5,Lost,2,Low-Value (Lost),Low-Value,3641.8825,3,360,2025-01-01,2025-02-08,Sports
+CUST-0505,254,4,14413.11,1,3,2,6,Lost,2,Low-Value (Lost),Low-Value,3603.2775,4,332,2025-01-29,2025-04-17,Beauty
+CUST-0186,187,3,14368.2,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,4789.400000000001,3,346,2025-01-15,2025-06-23,Clothing
+CUST-0396,342,1,14031.26,1,1,2,4,Lost,2,Low-Value (Lost),Low-Value,14031.26,1,342,2025-01-19,2025-01-19,Electronics
+CUST-0486,335,2,13902.980000000001,1,1,2,4,Lost,2,Low-Value (Lost),Low-Value,6951.490000000001,1,350,2025-01-11,2025-01-26,Clothing
+CUST-0231,243,3,13783.12,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,4594.373333333334,3,352,2025-01-09,2025-04-28,Grocery
+CUST-0192,265,4,13751.36,1,2,2,5,Lost,2,Low-Value (Lost),Low-Value,3437.84,3,343,2025-01-18,2025-04-06,Sports
+CUST-0404,306,5,13541.25,1,3,2,6,Lost,2,Low-Value (Lost),Low-Value,2708.25,5,353,2025-01-08,2025-02-24,Beauty
+CUST-0230,204,3,13491.869999999999,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,4497.29,3,352,2025-01-09,2025-06-06,Clothing
+CUST-0095,265,4,13336.17,1,2,2,5,Lost,2,Low-Value (Lost),Low-Value,3334.0425,3,329,2025-02-01,2025-04-06,Grocery
+CUST-0113,344,1,13115.6,1,1,2,4,Lost,2,Low-Value (Lost),Low-Value,13115.6,1,344,2025-01-17,2025-01-17,Clothing
+CUST-0451,308,3,12693.48,1,2,2,5,Lost,2,Low-Value (Lost),Low-Value,4231.16,3,348,2025-01-13,2025-02-22,Sports
+CUST-0337,326,6,12644.39,1,3,2,6,Lost,2,Low-Value (Lost),Low-Value,2107.398333333333,4,353,2025-01-08,2025-02-04,Sports
+CUST-0406,326,6,12522.429999999998,1,3,2,6,Lost,2,Low-Value (Lost),Low-Value,2087.0716666666663,4,351,2025-01-10,2025-02-04,Beauty
+CUST-0379,294,4,12357.45,1,2,2,5,Lost,2,Low-Value (Lost),Low-Value,3089.3625,4,354,2025-01-07,2025-03-08,Electronics
+CUST-0468,302,5,12005.95,1,3,2,6,Lost,2,Low-Value (Lost),Low-Value,2401.19,4,343,2025-01-18,2025-02-28,Home
+CUST-0212,234,4,11896.36,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,2974.09,3,285,2025-03-17,2025-05-07,Clothing
+CUST-0122,256,6,11476.99,1,3,2,6,Lost,2,Low-Value (Lost),Low-Value,1912.8316666666667,6,342,2025-01-19,2025-04-15,Sports
+CUST-0127,252,5,11363.22,1,3,2,6,Lost,2,Low-Value (Lost),Low-Value,2272.644,4,344,2025-01-17,2025-04-19,Clothing
+CUST-0009,135,3,11192.92,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,3730.9733333333334,3,339,2025-01-22,2025-08-14,Clothing
+CUST-0447,328,2,11184.24,1,1,2,4,Lost,2,Low-Value (Lost),Low-Value,5592.12,2,343,2025-01-18,2025-02-02,Electronics
+CUST-0278,247,2,10888.43,2,1,2,5,Hibernating,2,Low-Value (Lost),Low-Value,5444.215,2,330,2025-01-31,2025-04-24,Electronics
+CUST-0474,276,4,10611.390000000001,1,3,2,6,Lost,2,Low-Value (Lost),Low-Value,2652.8475000000003,3,317,2025-02-13,2025-03-26,Clothing
+CUST-0326,150,3,10388.71,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,3462.903333333333,3,246,2025-04-25,2025-07-30,Beauty
+CUST-0131,101,4,10052.380000000001,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,2513.0950000000003,4,322,2025-02-08,2025-09-17,Electronics
+CUST-0328,136,4,9814.119999999999,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,2453.5299999999997,4,325,2025-02-05,2025-08-13,Sports
+CUST-0463,201,3,9591.98,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,3197.3266666666664,3,287,2025-03-15,2025-06-09,Beauty
+CUST-0117,317,5,9532.99,1,3,2,6,Lost,2,Low-Value (Lost),Low-Value,1906.598,4,349,2025-01-12,2025-02-13,Beauty
+CUST-0025,126,4,9376.55,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,2344.1375,4,256,2025-04-15,2025-08-23,Home
+CUST-0157,128,4,9329.41,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,2332.3525,4,330,2025-01-31,2025-08-21,Clothing
+CUST-0147,172,3,9136.92,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,3045.64,3,351,2025-01-10,2025-07-08,Clothing
+CUST-0071,316,5,9134.69,1,3,2,6,Lost,2,Low-Value (Lost),Low-Value,1826.938,3,359,2025-01-02,2025-02-14,Grocery
+CUST-0438,302,4,9124.859999999999,1,2,2,5,Lost,2,Low-Value (Lost),Low-Value,2281.2149999999997,3,330,2025-01-31,2025-02-28,Electronics
+CUST-0268,212,3,9002.57,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,3000.8566666666666,3,256,2025-04-15,2025-05-29,Sports
+CUST-0217,145,4,8888.75,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,2222.1875,3,254,2025-04-17,2025-08-04,Home
+CUST-0390,291,6,8836.68,1,3,2,6,Lost,2,Low-Value (Lost),Low-Value,1472.78,6,360,2025-01-01,2025-03-11,Beauty
+CUST-0384,295,4,8715.03,1,2,2,5,Lost,2,Low-Value (Lost),Low-Value,2178.7575,4,350,2025-01-11,2025-03-07,Clothing
+CUST-0115,122,4,8648.15,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,2162.0375,4,324,2025-02-06,2025-08-27,Beauty
+CUST-0021,103,4,8331.94,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,2082.985,4,295,2025-03-07,2025-09-15,Grocery
+CUST-0008,320,3,8258.09,1,2,2,5,Lost,2,Low-Value (Lost),Low-Value,2752.6966666666667,3,357,2025-01-04,2025-02-10,Electronics
+CUST-0243,299,1,8212.08,1,1,2,4,Lost,2,Low-Value (Lost),Low-Value,8212.08,1,299,2025-03-03,2025-03-03,Electronics
+CUST-0492,250,2,8168.24,1,1,2,4,Lost,2,Low-Value (Lost),Low-Value,4084.12,2,346,2025-01-15,2025-04-21,Electronics
+CUST-0265,309,3,7879.15,1,2,2,5,Lost,2,Low-Value (Lost),Low-Value,2626.383333333333,3,332,2025-01-29,2025-02-21,Beauty
+CUST-0465,327,1,7866.36,1,1,2,4,Lost,2,Low-Value (Lost),Low-Value,7866.36,1,327,2025-02-03,2025-02-03,Clothing
+CUST-0446,340,2,7701.57,1,1,2,4,Lost,2,Low-Value (Lost),Low-Value,3850.785,2,344,2025-01-17,2025-01-21,Beauty
+CUST-0420,169,3,7647.01,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,2549.0033333333336,3,256,2025-04-15,2025-07-11,Sports
+CUST-0323,92,2,7568.4,3,1,2,6,Need Attention,2,Low-Value (Lost),Low-Value,3784.2,2,235,2025-05-06,2025-09-26,Beauty
+CUST-0120,41,1,7474.08,3,1,2,6,Need Attention,0,Regular (Loyal),Low-Value,7474.08,1,41,2025-11-16,2025-11-16,Sports
+CUST-0208,200,3,7464.25,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,2488.0833333333335,3,315,2025-02-15,2025-06-10,Home
+CUST-0166,333,2,7340.42,1,1,2,4,Lost,2,Low-Value (Lost),Low-Value,3670.21,2,345,2025-01-16,2025-01-28,Clothing
+CUST-0412,308,1,7241.88,1,1,2,4,Lost,2,Low-Value (Lost),Low-Value,7241.88,1,308,2025-02-22,2025-02-22,Clothing
+CUST-0448,147,3,7220.41,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,2406.8033333333333,1,299,2025-03-03,2025-08-02,Home
+CUST-0128,321,5,7159.27,1,3,2,6,Lost,2,Low-Value (Lost),Low-Value,1431.854,5,349,2025-01-12,2025-02-09,Clothing
+CUST-0141,332,2,7122.18,1,1,2,4,Lost,2,Low-Value (Lost),Low-Value,3561.09,2,347,2025-01-14,2025-01-29,Beauty
+CUST-0499,350,2,7016.63,1,1,2,4,Lost,2,Low-Value (Lost),Low-Value,3508.315,2,356,2025-01-05,2025-01-11,Home
+CUST-0093,248,4,7003.419999999999,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,1750.8549999999998,4,343,2025-01-18,2025-04-23,Beauty
+CUST-0299,153,2,6887.99,2,1,2,5,Hibernating,2,Low-Value (Lost),Low-Value,3443.995,2,312,2025-02-18,2025-07-27,Electronics
+CUST-0365,304,2,6731.9,1,1,2,4,Lost,2,Low-Value (Lost),Low-Value,3365.95,2,327,2025-02-03,2025-02-26,Electronics
+CUST-0382,111,3,6704.69,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,2234.8966666666665,3,303,2025-02-27,2025-09-07,Clothing
+CUST-0035,326,2,6675.03,1,1,2,4,Lost,2,Low-Value (Lost),Low-Value,3337.515,2,354,2025-01-07,2025-02-04,Clothing
+CUST-0305,253,3,6619.61,1,2,2,5,Lost,2,Low-Value (Lost),Low-Value,2206.5366666666664,3,338,2025-01-23,2025-04-18,Electronics
+CUST-0220,322,3,6437.77,1,2,2,5,Lost,2,Low-Value (Lost),Low-Value,2145.9233333333336,3,360,2025-01-01,2025-02-08,Electronics
+CUST-0163,190,2,6281.39,2,1,2,5,Hibernating,2,Low-Value (Lost),Low-Value,3140.695,2,339,2025-01-22,2025-06-20,Grocery
+CUST-0484,230,3,6224.700000000001,2,2,2,6,Hibernating,2,Low-Value (Lost),Low-Value,2074.9,2,290,2025-03-12,2025-05-11,Home
+CUST-0012,329,1,6171.1,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,6171.1,1,329,2025-02-01,2025-02-01,Home
+CUST-0236,229,3,6155.2,2,2,1,5,Hibernating,2,Low-Value (Lost),Low-Value,2051.733333333333,3,336,2025-01-25,2025-05-12,Sports
+CUST-0053,346,1,6117.36,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,6117.36,1,346,2025-01-15,2025-01-15,Clothing
+CUST-0277,281,5,6090.15,1,3,1,5,Lost,2,Low-Value (Lost),Low-Value,1218.03,3,349,2025-01-12,2025-03-21,Beauty
+CUST-0070,317,2,6047.08,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,3023.54,1,329,2025-02-01,2025-02-13,Electronics
+CUST-0507,341,1,6038.25,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,6038.25,1,341,2025-01-20,2025-01-20,Electronics
+CUST-0249,309,1,5993.88,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,5993.88,1,309,2025-02-21,2025-02-21,Sports
+CUST-0034,332,1,5955.2,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,5955.2,1,332,2025-01-29,2025-01-29,Electronics
+CUST-0482,143,2,5871.6900000000005,2,1,1,4,Hibernating,2,Low-Value (Lost),Low-Value,2935.8450000000003,2,271,2025-03-31,2025-08-06,Electronics
+CUST-0271,241,5,5862.01,2,3,1,6,At Risk,2,Low-Value (Lost),Low-Value,1172.402,4,359,2025-01-02,2025-04-30,Grocery
+CUST-0485,22,1,5762.67,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,5762.67,1,22,2025-12-05,2025-12-05,Clothing
+CUST-0322,142,3,5698.0599999999995,2,2,1,5,Hibernating,2,Low-Value (Lost),Low-Value,1899.3533333333332,3,358,2025-01-03,2025-08-07,Home
+CUST-0108,152,3,5694.53,2,2,1,5,Hibernating,2,Low-Value (Lost),Low-Value,1898.1766666666665,2,353,2025-01-08,2025-07-28,Electronics
+CUST-0222,36,2,5658.33,3,1,1,5,Need Attention,0,Regular (Loyal),Low-Value,2829.165,2,84,2025-10-04,2025-11-21,Sports
+CUST-0046,242,2,5652.41,2,1,1,4,Hibernating,2,Low-Value (Lost),Low-Value,2826.205,2,278,2025-03-24,2025-04-29,Clothing
+CUST-0306,344,2,5526.2,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,2763.1,2,355,2025-01-06,2025-01-17,Home
+CUST-0415,117,3,5494.47,2,2,1,5,Hibernating,2,Low-Value (Lost),Low-Value,1831.49,3,329,2025-02-01,2025-09-01,Sports
+CUST-0472,320,1,5493.87,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,5493.87,1,320,2025-02-10,2025-02-10,Electronics
+CUST-0394,274,5,5242.41,1,3,1,5,Lost,2,Low-Value (Lost),Low-Value,1048.482,3,353,2025-01-08,2025-03-28,Beauty
+CUST-0246,314,2,5188.37,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,2594.185,2,358,2025-01-03,2025-02-16,Clothing
+CUST-0227,326,2,5147.42,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,2573.71,2,345,2025-01-16,2025-02-04,Home
+CUST-0054,337,2,5077.860000000001,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,2538.9300000000003,2,359,2025-01-02,2025-01-24,Clothing
+CUST-0194,206,2,5076.01,2,1,1,4,Hibernating,2,Low-Value (Lost),Low-Value,2538.005,2,333,2025-01-28,2025-06-04,Electronics
+CUST-0304,112,3,5028.22,2,2,1,5,Hibernating,2,Low-Value (Lost),Low-Value,1676.0733333333335,3,356,2025-01-05,2025-09-06,Clothing
+CUST-0155,332,1,5010.04,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,5010.04,1,332,2025-01-29,2025-01-29,Clothing
+CUST-0232,22,2,4868.98,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,2434.49,2,81,2025-10-07,2025-12-05,Beauty
+CUST-0454,306,2,4762.78,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,2381.39,2,328,2025-02-02,2025-02-24,Clothing
+CUST-0189,3,2,4613.55,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,2306.775,2,61,2025-10-27,2025-12-24,Clothing
+CUST-0233,15,1,4606.07,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,4606.07,1,15,2025-12-12,2025-12-12,Clothing
+CUST-0414,21,2,4589.1,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,2294.55,2,43,2025-11-14,2025-12-06,Electronics
+CUST-0074,269,4,4578.43,1,2,1,4,Lost,2,Low-Value (Lost),Low-Value,1144.6075,4,333,2025-01-28,2025-04-02,Home
+CUST-0040,48,4,4575.37,3,2,1,6,Need Attention,0,Regular (Loyal),Low-Value,1143.8425,4,211,2025-05-30,2025-11-09,Grocery
+CUST-0082,256,2,4462.889999999999,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,2231.4449999999997,2,342,2025-01-19,2025-04-15,Beauty
+CUST-0351,19,1,4454.75,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,4454.75,1,19,2025-12-08,2025-12-08,Clothing
+CUST-0088,200,2,4325.63,2,1,1,4,Hibernating,2,Low-Value (Lost),Low-Value,2162.815,2,310,2025-02-20,2025-06-10,Beauty
+CUST-0456,38,2,4305.929999999999,3,1,1,5,Need Attention,0,Regular (Loyal),Low-Value,2152.9649999999997,2,80,2025-10-08,2025-11-19,Electronics
+CUST-0314,315,2,4237.64,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,2118.82,2,330,2025-01-31,2025-02-15,Grocery
+CUST-0218,143,3,4166.4400000000005,2,2,1,5,Hibernating,2,Low-Value (Lost),Low-Value,1388.8133333333335,2,321,2025-02-09,2025-08-06,Sports
+CUST-0478,15,1,4122.32,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,4122.32,1,15,2025-12-12,2025-12-12,Clothing
+CUST-0162,131,2,4070.4300000000003,2,1,1,4,Hibernating,2,Low-Value (Lost),Low-Value,2035.2150000000001,2,223,2025-05-18,2025-08-18,Clothing
+CUST-0308,113,3,4011.12,2,2,1,5,Hibernating,2,Low-Value (Lost),Low-Value,1337.04,3,258,2025-04-13,2025-09-05,Home
+CUST-0198,295,4,3894.82,1,2,1,4,Lost,2,Low-Value (Lost),Low-Value,973.705,3,355,2025-01-06,2025-03-07,Electronics
+CUST-0257,320,2,3806.25,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,1903.125,2,330,2025-01-31,2025-02-10,Electronics
+CUST-0374,238,4,3767.61,2,2,1,5,Hibernating,2,Low-Value (Lost),Low-Value,941.9025,4,357,2025-01-04,2025-05-03,Grocery
+CUST-0399,179,2,3746.94,2,1,1,4,Hibernating,2,Low-Value (Lost),Low-Value,1873.47,2,278,2025-03-24,2025-07-01,Beauty
+CUST-0290,35,2,3706.9700000000003,3,1,1,5,Need Attention,0,Regular (Loyal),Low-Value,1853.4850000000001,2,79,2025-10-09,2025-11-22,Sports
+CUST-0433,190,3,3535.5099999999998,2,2,1,5,Hibernating,2,Low-Value (Lost),Low-Value,1178.5033333333333,3,352,2025-01-09,2025-06-20,Home
+CUST-0519,332,2,3506.08,1,2,1,4,Lost,2,Low-Value (Lost),Low-Value,1753.04,2,355,2025-01-06,2025-01-29,Beauty
+CUST-0248,328,1,3496.93,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,3496.93,1,328,2025-02-02,2025-02-02,Home
+CUST-0511,213,2,3200.71,2,2,1,5,Hibernating,2,Low-Value (Lost),Low-Value,1600.355,2,360,2025-01-01,2025-05-28,Beauty
+CUST-0170,6,2,3120.75,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,1560.375,2,48,2025-11-09,2025-12-21,Clothing
+CUST-0386,250,4,3089.57,1,2,1,4,Lost,2,Low-Value (Lost),Low-Value,772.3925,3,346,2025-01-15,2025-04-21,Beauty
+CUST-0462,304,3,3078.18,1,2,1,4,Lost,2,Low-Value (Lost),Low-Value,1026.06,2,358,2025-01-03,2025-02-26,Home
+CUST-0242,305,1,3076.33,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,3076.33,1,305,2025-02-25,2025-02-25,Clothing
+CUST-0229,279,3,2949.49,1,2,1,4,Lost,2,Low-Value (Lost),Low-Value,983.1633333333333,2,327,2025-02-03,2025-03-23,Grocery
+CUST-0436,251,3,2947.6099999999997,1,2,1,4,Lost,2,Low-Value (Lost),Low-Value,982.5366666666665,3,308,2025-02-22,2025-04-20,Home
+CUST-0140,350,1,2916.49,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,2916.49,1,350,2025-01-11,2025-01-11,Electronics
+CUST-0089,274,6,2885.12,1,3,1,5,Lost,2,Low-Value (Lost),Low-Value,480.8533333333333,5,332,2025-01-29,2025-03-28,Grocery
+CUST-0105,337,2,2844.29,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,1422.145,2,354,2025-01-07,2025-01-24,Clothing
+CUST-0097,15,1,2804.17,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,2804.17,1,15,2025-12-12,2025-12-12,Clothing
+CUST-0200,249,6,2804.17,1,3,1,5,Lost,2,Low-Value (Lost),Low-Value,467.3616666666667,5,342,2025-01-19,2025-04-22,Grocery
+CUST-0442,331,1,2771.82,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,2771.82,1,331,2025-01-30,2025-01-30,Clothing
+CUST-0264,100,1,2702.78,2,1,1,4,Hibernating,2,Low-Value (Lost),Low-Value,2702.78,1,100,2025-09-18,2025-09-18,Beauty
+CUST-0500,305,1,2619.65,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,2619.65,1,305,2025-02-25,2025-02-25,Electronics
+CUST-0211,14,2,2567.7700000000004,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,1283.8850000000002,2,71,2025-10-17,2025-12-13,Beauty
+CUST-0470,324,1,2538.3,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,2538.3,1,324,2025-02-06,2025-02-06,Beauty
+CUST-0066,21,1,2524.49,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,2524.49,1,21,2025-12-06,2025-12-06,Clothing
+CUST-0199,270,3,2512.4700000000003,1,2,1,4,Lost,2,Low-Value (Lost),Low-Value,837.4900000000001,2,356,2025-01-05,2025-04-01,Grocery
+CUST-0273,320,2,2497.59,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,1248.795,2,329,2025-02-01,2025-02-10,Electronics
+CUST-0188,2,1,2469.44,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,2469.44,1,2,2025-12-25,2025-12-25,Electronics
+CUST-0288,39,1,2468.7,3,1,1,5,Need Attention,0,Regular (Loyal),Low-Value,2468.7,1,39,2025-11-18,2025-11-18,Electronics
+CUST-0193,311,1,2388.4,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,2388.4,1,311,2025-02-19,2025-02-19,Electronics
+CUST-0076,223,2,2318.62,2,1,1,4,Hibernating,2,Low-Value (Lost),Low-Value,1159.31,2,282,2025-03-20,2025-05-18,Clothing
+CUST-0039,231,2,2285.17,2,1,1,4,Hibernating,2,Low-Value (Lost),Low-Value,1142.585,2,323,2025-02-07,2025-05-10,Grocery
+CUST-0138,126,4,2236.32,2,2,1,5,Hibernating,2,Low-Value (Lost),Low-Value,559.08,3,352,2025-01-09,2025-08-23,Grocery
+CUST-0481,177,2,2182.94,2,1,1,4,Hibernating,2,Low-Value (Lost),Low-Value,1091.47,2,313,2025-02-17,2025-07-03,Electronics
+CUST-0358,34,2,2060.23,3,1,1,5,Need Attention,0,Regular (Loyal),Low-Value,1030.115,2,91,2025-09-27,2025-11-23,Clothing
+CUST-0075,112,3,2040.44,2,2,1,5,Hibernating,2,Low-Value (Lost),Low-Value,680.1466666666666,3,329,2025-02-01,2025-09-06,Beauty
+CUST-0332,208,1,1995.31,2,1,1,4,Hibernating,2,Low-Value (Lost),Low-Value,1995.31,1,208,2025-06-02,2025-06-02,Clothing
+CUST-0276,37,3,1988.0,3,2,1,6,Need Attention,0,Regular (Loyal),Low-Value,662.6666666666666,3,97,2025-09-21,2025-11-20,Electronics
+CUST-0270,91,4,1973.03,3,2,1,6,Need Attention,2,Low-Value (Lost),Low-Value,493.2575,4,245,2025-04-26,2025-09-27,Beauty
+CUST-0402,312,1,1956.14,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,1956.14,1,312,2025-02-18,2025-02-18,Home
+CUST-0267,184,2,1885.7800000000002,2,1,1,4,Hibernating,2,Low-Value (Lost),Low-Value,942.8900000000001,2,210,2025-05-31,2025-06-26,Grocery
+CUST-0051,349,1,1877.1,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,1877.1,1,349,2025-01-12,2025-01-12,Electronics
+CUST-0413,309,1,1819.74,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,1819.74,1,309,2025-02-21,2025-02-21,Clothing
+CUST-0302,12,2,1813.21,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,906.605,2,26,2025-12-01,2025-12-15,Grocery
+CUST-0283,59,4,1751.8500000000001,3,2,1,6,Need Attention,0,Regular (Loyal),Low-Value,437.96250000000003,4,261,2025-04-10,2025-10-29,Grocery
+CUST-0368,326,2,1736.4099999999999,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,868.2049999999999,2,354,2025-01-07,2025-02-04,Clothing
+CUST-0098,86,4,1647.07,3,2,1,6,Need Attention,2,Low-Value (Lost),Low-Value,411.7675,4,332,2025-01-29,2025-10-02,Grocery
+CUST-0010,251,2,1615.16,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,807.58,2,336,2025-01-25,2025-04-20,Beauty
+CUST-0274,355,2,1601.7,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,800.85,2,360,2025-01-01,2025-01-06,Home
+CUST-0241,319,2,1505.2199999999998,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,752.6099999999999,1,348,2025-01-13,2025-02-11,Grocery
+CUST-0096,14,1,1457.19,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,1457.19,1,14,2025-12-13,2025-12-13,Sports
+CUST-0197,236,3,1277.49,2,2,1,5,Hibernating,2,Low-Value (Lost),Low-Value,425.83,2,289,2025-03-13,2025-05-05,Beauty
+CUST-0201,172,2,1192.3600000000001,2,1,1,4,Hibernating,2,Low-Value (Lost),Low-Value,596.1800000000001,2,315,2025-02-15,2025-07-08,Beauty
+CUST-0296,22,1,1183.18,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,1183.18,1,22,2025-12-05,2025-12-05,Electronics
+CUST-0219,164,3,1166.47,2,2,1,5,Hibernating,2,Low-Value (Lost),Low-Value,388.8233333333333,3,295,2025-03-07,2025-07-16,Grocery
+CUST-0160,181,2,1152.6000000000001,2,1,1,4,Hibernating,2,Low-Value (Lost),Low-Value,576.3000000000001,2,299,2025-03-03,2025-06-29,Beauty
+CUST-0148,41,1,955.66,3,1,1,5,Need Attention,0,Regular (Loyal),Low-Value,955.66,1,41,2025-11-16,2025-11-16,Home
+CUST-0341,17,1,936.85,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,936.85,1,17,2025-12-10,2025-12-10,Beauty
+CUST-0204,314,3,893.15,1,2,1,4,Lost,2,Low-Value (Lost),Low-Value,297.71666666666664,2,346,2025-01-15,2025-02-16,Grocery
+CUST-0409,348,1,889.71,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,889.71,1,348,2025-01-13,2025-01-13,Sports
+CUST-0258,192,3,884.58,2,2,1,5,Hibernating,2,Low-Value (Lost),Low-Value,294.86,3,343,2025-01-18,2025-06-18,Grocery
+CUST-0056,349,1,882.59,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,882.59,1,349,2025-01-12,2025-01-12,Grocery
+CUST-0234,22,1,850.88,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,850.88,1,22,2025-12-05,2025-12-05,Grocery
+CUST-0092,101,2,828.34,2,1,1,4,Hibernating,2,Low-Value (Lost),Low-Value,414.17,2,351,2025-01-10,2025-09-17,Beauty
+CUST-0213,150,1,740.84,2,1,1,4,Hibernating,2,Low-Value (Lost),Low-Value,740.84,1,150,2025-07-30,2025-07-30,Sports
+CUST-0048,6,1,706.77,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,706.77,1,6,2025-12-21,2025-12-21,Home
+CUST-0044,299,1,705.6,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,705.6,1,299,2025-03-03,2025-03-03,Grocery
+CUST-0325,344,1,702.74,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,702.74,1,344,2025-01-17,2025-01-17,Home
+CUST-0094,29,1,618.24,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,618.24,1,29,2025-11-28,2025-11-28,Grocery
+CUST-0183,330,1,617.08,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,617.08,1,330,2025-01-31,2025-01-31,Grocery
+CUST-0303,1,1,606.85,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,606.85,1,1,2025-12-26,2025-12-26,Grocery
+CUST-0135,298,1,592.15,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,592.15,1,298,2025-03-04,2025-03-04,Grocery
+CUST-0385,169,2,543.7,2,1,1,4,Hibernating,2,Low-Value (Lost),Low-Value,271.85,2,348,2025-01-13,2025-07-11,Grocery
+CUST-0151,298,1,444.66,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,444.66,1,298,2025-03-04,2025-03-04,Grocery
+CUST-0513,326,1,420.68,1,1,1,3,Lost,2,Low-Value (Lost),Low-Value,420.68,1,326,2025-02-04,2025-02-04,Grocery
+CUST-0102,146,2,356.3,2,1,1,4,Hibernating,2,Low-Value (Lost),Low-Value,178.15,2,287,2025-03-15,2025-08-03,Grocery
+CUST-0464,6,1,355.8,4,1,1,6,Recent / New Customers,0,Regular (Loyal),Low-Value,355.8,1,6,2025-12-21,2025-12-21,Beauty
+CUST-0497,35,1,338.57,3,1,1,5,Need Attention,0,Regular (Loyal),Low-Value,338.57,1,35,2025-11-22,2025-11-22,Beauty
+CUST-0509,308,2,324.88,1,2,1,4,Lost,2,Low-Value (Lost),Low-Value,162.44,2,351,2025-01-10,2025-02-22,Grocery

@@ -1,0 +1,16 @@
+Customer Purchase Data - Cleaning Report
+========================================================================
+
+Source : data/customer_purchases.csv
+Rows before cleaning : 4,002
+Rows after cleaning  : 3,797
+Rows removed         : 205
+
+                                                                      Step  Rows_Removed  Rows_Remaining
+                                      Trimmed whitespace from text columns             0            4002
+                     Standardised Region / Channel / Payment_Method values             0            4002
+                 Converted types (dates -> datetime, money/qty -> numeric)             0            4002
+Dropped rows missing essential values (customer, date, qty, price, amount)           115            3887
+                        Filled optional gaps with 'Unknown' / 0.0 discount           115            3887
+                                      Removed exact duplicate transactions            76            3811
+     Removed invalid records (qty/price/amount <= 0, discount outside 0-1)            14            3797
